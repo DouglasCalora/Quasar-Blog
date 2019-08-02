@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Douglas",
+      "lastName": "Agostinho",
+      "age": "21",
+      "gender": "1",
+      "email": "douglascalora123@gmail.com",
+      "phone": "16991935868"
+    },
+    {
+      "id": "22",
+      "name": "Joao",
+      "lastName": "Silva",
+      "age": "22",
+      "gender": "1",
+      "email": "joaosilva@gmail.com",
+      "phone": "1699999999"
+    }
+  ],
+  "posts": [
+    {
+      "id": "144",
+      "category": "tecnologia",
+      "spotlight": false,
+      "title": "Title post",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image": "https://placehold.it/768x300",
+      "author": "douglas",
+      "likes": "0",
+      "dislikes": "0",
+      "comments": [],
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": "4",
+      "category": "natureza",
+      "spotlight": false,
+      "title": "Title post",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "image": "https://placehold.it/768x300",
+      "author": "douglas",
+      "likes": "0",
+      "dislikes": "0",
+      "comments": [],
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": "53",
+      "category": "economia",
+      "spotlight": true,
+      "title": "Title post",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "image": "https://placehold.it/768x300",
+      "author": "douglas",
+      "likes": "0",
+      "dislikes": "0",
+      "comments": [],
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    }
+  ]
+}
